@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+
+Hi, I'm Salvador. I'm getting started.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| C       |
+
+---
+> What we know is a drop, what we don't know is an ocean.
+
+—  Isaac Newton 
